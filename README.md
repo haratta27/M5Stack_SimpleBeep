@@ -7,7 +7,7 @@ M5Stack用 シンプルビープ音 生成ライブラリ。
 Just call the function ("Beep") and you will hear a beep.
 Beep関数を呼び出すだけでM5Stackからビープ音が鳴ります。
 Detail Information ↓
-https://harattamouse.hatenablog.com/entry/2020/08/10/m5stack-beep
+https://harattamouse.hatenablog.com/entry/2020/08/12/m5stack-beep
 
 ## How it Works
 The timer interrupt of esp32 is used. The DAC port is toggling output.
