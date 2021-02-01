@@ -3,7 +3,7 @@ M5Stack SimpleBeep library
 This library can simply beep for M5Stack.
 M5Stack用 シンプルビープ音 生成ライブラリ。
 
-## Overview
+## Overview  
 Just call the function ("Beep") and you will hear a beep.
 Beep関数を呼び出すだけでM5Stackからビープ音が鳴ります。
 Detail Information ↓
